@@ -11,6 +11,6 @@ public class Helper {
 	public void  m1() {
 		List<String> list=new ArrayList<>();
 		list.add("java");
-		System.out.println(list);
+		System.out.println(list)
 	}
 }
